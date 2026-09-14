@@ -1,0 +1,4 @@
+slug,title,content
+when-to-start,設計の依頼はどの段階から可能ですか？,敷地が決まっていれば、企画段階からお受けしています。土地探しからのご相談も可能です。
+multilingual,多言語のサイトも同じテーマで運用できますか？,Polylang / WPML に加え、プラグイン無しの ?lang= フォールバックを用意しています。
+csv-import,CSV 一括投入はできますか？,WP All Import を前提に、フィールド名を CSV ヘッダーと揃えています。data/ 配下のサンプルを使ってください。
