@@ -1,0 +1,19 @@
+/*
+Theme Name: Minato
+Theme URI: https://github.com/codexoy/wp-theme
+Author: Codex
+Author URI: https://github.com/codexoy
+Description: フルスクラッチの多言語コーポレートテーマ。カスタム投稿＋ACF、Schema.org JSON-LD、モバイルファースト、Core Web Vitals、WP All Import 前提のコンテンツモデル。親テーマの改変ではなくゼロから設計。
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.6
+Requires PHP: 8.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: minato
+Tags: custom-post-type, translation-ready, featured-images, theme-options, blog
+
+Minato is an original theme. It does not extend a parent theme.
+*/
+
+/* Structural CSS lives in assets/css/main.css (enqueued). This file is the theme identity header. */

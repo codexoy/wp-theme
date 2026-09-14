@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+*.log
+*.sql
+*.sqlite
+.idea/
+.vscode/
+*.mo
+.env
+.env.*
+!preview/.gitkeep
