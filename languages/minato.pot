@@ -1,0 +1,23 @@
+# Copyright (C) Minato
+msgid ""
+msgstr ""
+"Project-Id-Version: Minato 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
+msgid "Projects"
+msgstr "仕事"
+
+msgid "Services"
+msgstr "サービス"
+
+msgid "Locations"
+msgstr "拠点"
+
+msgid "トップ"
+msgstr ""
+
+msgid "言語切替"
+msgstr ""
